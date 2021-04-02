@@ -19,3 +19,5 @@ there are two end points:
 
 In the app.js file, connection with database is made, data gets stored in the database when user adds data, CRUD opeartion for updation, reading and deletion is used.
 CRON job is used for deleting the task once duration is over, it runs every 10 seconds and as soon as 'creation time + duration' becomes more than current time task gets deleted.
+<br> 
+https://task-to-do-current.herokuapp.com/ Live project URL
